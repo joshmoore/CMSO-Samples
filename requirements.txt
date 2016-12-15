@@ -1,3 +1,4 @@
 datapackage
 jupyter
 jsontableschema-pandas
+goodtables
